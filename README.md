@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @axxeny.
+- 🐍 I am a polyglot engineer, currently mostly specialized on Python.
+- 📈 I have completed many projects in backend engineering and software infrastructure.
+- 👀 I’m interested in finance, and the very best engineering practices.
+- 🌱 I’m currently learning whatever I need for the interesting tasks.
+- 📫 Reach me at https://t.me/axxeny.
+- 🌍 I am a fan of peace and liberty. Looking for a job with relocation. https://www.linkedin.com/in/axxeny/.
