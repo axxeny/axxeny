@@ -3,5 +3,5 @@
 - 📈 I have completed many projects in backend engineering and software infrastructure.
 - 👀 I’m interested in finance, and the very best engineering practices.
 - 🌱 I’m currently learning whatever I need for the interesting tasks.
-- 📫 Reach me at https://t.me/axxeny.
-- 🌍 I am a fan of peace and liberty. Looking for a job with relocation. https://www.linkedin.com/in/axxeny/.
+- 🌍 I am a fan of peace and liberty.
+- 📫 My fresh contact info is at https://axxeny.com
