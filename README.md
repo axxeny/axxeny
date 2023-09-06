@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @axxeny.
-- 🐍 I am a polyglot engineer, currently mostly specialized on Python.
-- 📈 I have completed many projects in backend engineering and software infrastructure.
-- 👀 I’m interested in finance, and the very best engineering practices.
-- 🌱 I’m currently learning whatever I need for the interesting tasks.
+- 📈 I am a quantitative developer, striving to be great at both engineering and trading.
+- 🎱 I have completed many projects in QD, as well as backend engineering, software infrastructure.
+- 🐍 I mostly write in Python with scientific batteries.
+- 🤸🏻‍♂️ I appreciate the concepts underpinning other languages like C, C++, Go, Rust.
+- 👀 Currently I am learning the ecosystem of tools and utils made by GNU, Apache, Amazon and others.
 - 🌍 I am a fan of peace and liberty.
 - 📫 My fresh contact info is at https://axxeny.com
